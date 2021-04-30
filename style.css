@@ -181,4 +181,8 @@ ul {
   margin-right: 500px;
   transform: translate(100%, -100%);
 }
-
+#appburger{
+  width: 25px;
+  height: 25px;
+  padding: 10px 10px 0px 0px;
+}
