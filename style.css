@@ -173,4 +173,12 @@ ul {
   cursor: pointer;
   user-select: none;
 }
+.microphone{
+  margin-left: 450px;
+  padding-top: 10px;
+}
+.searchicon{
+  margin-right: 500px;
+  transform: translate(100%, -100%);
+}
 
